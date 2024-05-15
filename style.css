@@ -1,0 +1,13 @@
+/* style.css */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imagem {
+    width: 100px; /* Ajuste a largura conforme desejado */
+    height: auto;
+    margin-bottom: 10px; /* Espaço entre as imagens */
+}
